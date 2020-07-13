@@ -1,0 +1,1 @@
+checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '6a982647-471a-48ed-833b-98465f31b239', url: 'https://github.com/pacific007/jenkins.git']]])
